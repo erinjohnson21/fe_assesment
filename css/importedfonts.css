@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Tiempos';
+  src: url('fonts/TiemposTextWeb-Regular.eot');
+  src: url('fonts/TiemposTextWeb-Regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/TiemposTextWeb-Regular.woff2') format('woff2'),
+       url('fonts/TiemposTextWeb-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sul Sans';
+  src: url('fonts/Sul Sans Light.eot');
+  src: url('fonts/Sul Sans Light.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Sul Sans Light.woff') format('woff');
+	font-weight: lighter;
+}
+@font-face {
+  font-family: 'Sul Sans';
+  src: url('fonts/Sul Sans Regular.eot');
+  src: url('fonts/Sul Sans Regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Sul Sans Regular.woff') format('woff');
+	font-weight: normal;
+}
+@font-face {
+  font-family: 'Sul Sans Medium';
+  src: url('fonts/Sul Sans Medium.eot');
+  src: url('fonts/Sul Sans Medium.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Sul Sans Medium.woff') format('woff');
+	font-weight: medium;
+}
+@font-face {
+  font-family: 'Sul Sans';
+  src: url('fonts/Sul Sans Bold.eot');
+  src: url('fonts/Sul Sans Bold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Sul Sans Bold.woff') format('woff');
+	font-weight: bold;
+}
+@font-face {
+  font-family: 'Sul Sans';
+  src: url('fonts/Sul Sans Black.eot');
+  src: url('fonts/Sul Sans Black.eot?#iefix') format('embedded-opentype'),
+       url('fonts/Sul Sans Black.woff') format('woff');
+	font-weight: bolder;
+}

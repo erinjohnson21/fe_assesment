@@ -525,7 +525,7 @@ footer {
 }
 #programs footer {
   margin-top: 253px;
-  text-align: center;
+  justify-content: center;
 }
 /* BOXES */
 #boxes {
